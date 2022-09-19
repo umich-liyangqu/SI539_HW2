@@ -1,3 +1,13 @@
 body {
     font-family: Verdana, Arial;
 }
+
+/*Be at least 100px tall (but will automatically be taller if needed)
+Have 20px padding on all sides
+Have a 3px solid white border on all sides. */
+div {
+    padding: 20px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #FFFFFF;
+}
