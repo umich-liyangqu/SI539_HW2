@@ -12,3 +12,16 @@ div {
     border-color: #FFFFFF;
     min-height: 100px;
 }
+
+/*Text is 48px
+Text is blue
+There is 15px padding on all sides*/
+h1 {
+    font-size: 48px;
+    
+}
+
+/*Text is 32px*/
+h2 {
+    font-size: 32px;
+}
