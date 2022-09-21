@@ -18,7 +18,7 @@ Text is blue
 There is 15px padding on all sides*/
 h1 {
     font-size: 48px;
-    
+    padding: 15px;
 }
 
 /*Text is 32px*/
