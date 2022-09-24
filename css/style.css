@@ -34,7 +34,7 @@ p {
 }
 
 span {
-    font-style: underline;
+    text-decoration: underline;
     text-transform: uppercase;
 }
 
