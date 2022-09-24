@@ -1,5 +1,6 @@
 body {
     font-family: Verdana, Arial;
+    margin: 25px 25px 0px 25px;
 }
 
 /*Be at least 100px tall (but will automatically be taller if needed)
