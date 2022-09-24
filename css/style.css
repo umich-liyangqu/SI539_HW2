@@ -33,6 +33,11 @@ p {
     padding-left: 15px;
 }
 
+span {
+    font-style: underline;
+    text-transform: uppercase;
+}
+
 img {
     width: 350px;
     border-style: dashed;
@@ -43,22 +48,17 @@ img {
 div.red {
     background-color: #D96164;
     margin-left: 50px;
-    text-align: left;
+    text-align: right;
     border-left: 10px;
     border-bottom: 3px;
 }
 
 div.blue {
-    background-color: #4789CE;
-    margin-left: 50px;
+    background-color: #048CE9;
+    margin-right: 50px;
     text-align: left;
     border-left: 10px;
     border-bottom: 3px;
-}
-
-span {
-    font-style: underline;
-    text-transform: uppercase;
 }
 
 footer {
