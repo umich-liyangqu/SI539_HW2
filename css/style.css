@@ -38,3 +38,24 @@ img {
     border-width: 10px;
     border-color: #000000;
 }
+
+div.red {
+    background-color: #D96164;
+    margin-left: 50px;
+    text-align: left;
+    border-left: 10px;
+    border-bottom: 3px;
+}
+
+div.red {
+    background-color: #4789CE;
+    margin-left: 50px;
+    text-align: left;
+    border-left: 10px;
+    border-bottom: 3px;
+}
+
+span {
+    text-style: underline;
+    text-transform: uppercase;
+}
