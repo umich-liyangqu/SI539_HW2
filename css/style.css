@@ -8,9 +8,7 @@ Have 20px padding on all sides
 Have a 3px solid white border on all sides. */
 div {
     padding: 20px;
-    border-width: 3px;
-    border-style: solid;
-    border-color: #FFFFFF;
+    border: 3px solid #FFFFFF;
     min-height: 100px;
 }
 
@@ -41,9 +39,7 @@ span {
 
 img {
     width: 350px;
-    border-style: dashed;
-    border-width: 10px;
-    border-color: #000000;
+    border: dashed 10px #000000;
 }
 
 div.red {
